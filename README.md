@@ -75,7 +75,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yulianav09.github.io/Portfolio/)
+- [Live Demo Link](https://yulianav09.github.io/Review_your_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,6 +120,11 @@ Install this project with:
 
 - GitHub: [@Yuliana09](https://github.com/Yulianav09)
 - LinkedIn: [Yuliana Velez Rodriguez](https://www.linkedin.com/in/yuliana-velez-rodriguez/)
+
+👤 **Author1**
+
+- GitHub: [@Alexis Perez](https://github.com/AlexisOmarPerez)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
