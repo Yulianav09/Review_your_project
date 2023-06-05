@@ -1,0 +1,35 @@
+form {
+  padding: 40px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  padding-top: 50px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #282747;
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.comments {
+  display: block;
+  margin-top: 50px;
+}
+
+button {
+  background-color: #37af64;
+  padding: 12px 20px;
+  border-radius: 8px;
+  color: white;
+  border: transparent;
+}
